@@ -43,7 +43,7 @@
 
 ## 📊 Estatísticas GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-luiza&layout=compact)](https://github.com/souza-luiza)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-luiza&layout=compact&theme=radical)
 
 ---
 
