@@ -1,5 +1,8 @@
 <h1 align="center">👋 Olá, eu sou a <strong>Luiza de Souza</strong>!</h1>
-<p align="center">🎓 Estudante de Ciência e Tecnologia | 🎮 Dev de Jogos 2D | 💡 Apaixonada por resolver problemas com código</p>
+
+🎓 Estudante de Ciência e Tecnologia na UNIFESP, com foco em Ciência da Computação.       
+
+👩‍💻 Interessada em desenvolvimento de jogos e resolução de problemas com programação.
 
 ---
 
