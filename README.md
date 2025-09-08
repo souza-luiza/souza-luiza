@@ -1,12 +1,12 @@
 # Olá, sou a Luiza! 👋
 
 ---
-# PORTUGUÊS
+## PORTUGUÊS
 
 - 🎒 Atualmente, estudo Ciência e Tecnologia com ênfase em Ciência da Computação na UNIFESP.
 
 ---
-# ENGLISH
+## ENGLISH
 
 - 🎒 I’m currently studying Science and Technology with emphasis in Computer Science at UNIFESP.
 
