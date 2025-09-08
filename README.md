@@ -43,7 +43,11 @@
 
 ## 📊 Estatísticas GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-luiza&layout=compact&theme=radical&hide=shaderlab,hlsl)
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-luiza&layout=compact&hide=shaderlab,hlsl&theme=radical)
+
+</div>
 
 ---
 
