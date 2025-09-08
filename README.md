@@ -1,26 +1,28 @@
-# Olá! Me chamo Luiza, bem-vindo ao meu perfil no Github 👋
+# Olá, sou a Luiza! 👋
+
+---
+# PORTUGUÊS
+
+- 🎒 Atualmente, estudo Ciência e Tecnologia com ênfase em Ciência da Computação na UNIFESP.
+
+---
+# ENGLISH
+
+- 🎒 I’m currently studying Science and Technology with emphasis in Computer Science at UNIFESP.
 
 ---
 
-- 🌱 Atualmente, estudo Ciência e Tecnologia com ênfase em Ciência da Computação na UNIFESP.
-
----
-
-- 🌱 I’m currently studying Science and Technology with emphasis in Computer Science at UNIFESP.
-
----
-
-## 📈 Estatísticas
+## 📊 Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-luiza&layout=compact)](https://github.com/souza.luiza)
 
 ---
 
-**Obrigado por visitar meu perfil!** 😊  
+**Obrigada por visitar meu perfil!** 😊  
 
 <!--
 **souza-luiza/souza-luiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+💻
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
