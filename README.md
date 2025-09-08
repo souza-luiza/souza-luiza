@@ -1,4 +1,13 @@
-## Hi there 👋
+# Olá! Me chamo Luiza, bem-vindo ao meu perfil no Github 👋
+
+---
+
+- 🌱 Atualmente, estudo Ciência e Tecnologia com ênfase em Ciência da Computação na UNIFESP.
+
+---
+
+- 🌱 I’m currently studying Science and Technology with emphasis in Computer Science at UNIFESP.
+
 ---
 
 ## 📈 Estatísticas
