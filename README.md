@@ -53,7 +53,7 @@
 
 ## 🌐 Contato
 
-[LinkedIn](https://www.linkedin.com/in/luizadesouzaferreira) • [📁 Repositórios](https://github.com/souza-luiza?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/luizadesouzaferreira)
 
 ---
 
