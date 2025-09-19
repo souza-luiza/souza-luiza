@@ -51,12 +51,6 @@
 
 ---
 
-## 🌐 Contato
-
-[LinkedIn](https://www.linkedin.com/in/luizadesouzaferreira)
-
----
-
 **Obrigada por visitar meu perfil!** 😊
 
 
