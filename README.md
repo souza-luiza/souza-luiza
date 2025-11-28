@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência e Tecnologia na UNIFESP, com foco em Ciência da Computação.       
 
-👩‍💻 Interessada em desenvolvimento de jogos e resolução de problemas com programação.
+👩‍💻 Interessada em desenvolvimento de jogos, engenharia de software e resolução de problemas com programação.
 
 ---
 
@@ -35,7 +35,7 @@
 ## ✨ Interesses
 
 - 🎮 Desenvolvimento de Jogos
-- 💻 Desenvolvimento de Software
+- 💻 Engenharia de Software
 - 🗄️ Banco de Dados
 - 🧠 Programação Competitiva
 
