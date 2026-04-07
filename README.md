@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou a <strong>Luiza de Souza</strong>!</h1>
 
-🎓 Estudante de Ciência e Tecnologia na UNIFESP, com foco em Ciência da Computação.       
+🎓 Graduada em Ciência e Tecnologia, e estudante de Ciência da Computação na UNIFESP.       
 
-👩‍💻 Interessada em desenvolvimento de jogos, engenharia de software e resolução de problemas com programação.
+👩‍💻 Interessada em engenharia de software, desenvolvimento de jogos e resolução de problemas com programação.
 
 ---
 
@@ -25,17 +25,21 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Ferramentas e Outros:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ## ✨ Interesses
 
-- 🎮 Desenvolvimento de Jogos
 - 💻 Engenharia de Software
+- 🎮 Desenvolvimento de Jogos
 - 🗄️ Banco de Dados
 - 🧠 Programação Competitiva
 
@@ -52,19 +56,3 @@
 ---
 
 **Obrigada por visitar meu perfil!** 😊
-
-
-<!--
-**souza-luiza/souza-luiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💻
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
