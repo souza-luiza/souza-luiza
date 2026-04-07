@@ -10,7 +10,7 @@
 
 ### 📚 Livramente
 
-> **LivraMente** é uma rede social literária voltada para leitores brasileiros, foi desenvolvida na UC de Engenharia de Software, utilizando a metodologia ágil **Scrum**.  
+> **LivraMente** é uma rede social literária voltada para leitores brasileiros, desenvolvida na UC de Engenharia de Software com base na metodologia ágil **Scrum**.  
 > A plataforma oferece um ambiente totalmente em português para leitores compartilharem experiências, acompanharem leituras e interegirem com outros usuários, tendo a gamificação como diferencial.
 
 🛠️ **Tecnologias utilizadas**: NestJS, Next.js, MongoDB  
