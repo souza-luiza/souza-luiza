@@ -8,6 +8,15 @@
 
 ## 🕹️ Projetos em Destaque
 
+### 📚 Livramente
+
+> **LivraMente** é uma rede social literária voltada para leitores brasileiros, foi desenvolvida na UC de Engenharia de Software, utilizando a metodologia ágil **Scrum**.  
+> A plataforma oferece um ambiente totalmente em português para leitores compartilharem experiências, acompanharem leituras e interegirem com outros usuários, tendo a gamificação como diferencial.
+
+🛠️ **Tecnologias utilizadas**: NestJS, Next.js, MongoDB  
+🎨 **Categoria**: Aplicação Web / Rede Social  
+🔗 [GitHub](https://github.com/souza-luiza/LivraMente)
+
 ### 🎮 Firehose: Kerana Origins
 
 > **Firehose: Kerana Origins** é um jogo 2D onde uma **onça-pintada** embarca em uma jornada por diferentes fases e missões, com o objetivo de encontrar e derrotar o responsável por um incêndio criminoso no seu vilarejo.  
@@ -15,7 +24,7 @@
 
 🛠️ **Tecnologias utilizadas**: Unity, C#  
 🎨 **Gênero**: Drama-aventura 2D  
-🔗 [👉 Ver no GitHub](https://github.com/souza-luiza/Kerana-Firehose)
+🔗 [GitHub](https://github.com/souza-luiza/Kerana-Firehose)
 
 ---
 
