@@ -8,7 +8,7 @@
 
 ## 🕹️ Projetos em Destaque
 
-### 📚 Livramente
+### 📚 LivraMente
 
 > **LivraMente** é uma rede social literária voltada para leitores brasileiros, desenvolvida na UC de Engenharia de Software com metodologia ágil **Scrum**.  
 > A plataforma permite criação de comunidades, readlists e interação entre usuários.
